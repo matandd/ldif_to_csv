@@ -1,0 +1,2 @@
+python_ldap==3.4.3
+ldif==4.2.0
